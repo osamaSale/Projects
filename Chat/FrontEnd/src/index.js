@@ -9,7 +9,7 @@ import axios from 'axios';
 
 
 /*  axios.defaults.baseURL = `http://localhost:5000/`  */
-axios.defaults.baseURL = `https://chat-server-bz17.onrender.com/`
+axios.defaults.baseURL = `https://projects-9q1a.onrender.com/`
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
